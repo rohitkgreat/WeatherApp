@@ -1,5 +1,5 @@
 # TempToday- A Weather App
-Check my app out :
+Check out my app :
 https://drive.google.com/file/d/1Y4ytr2adp8PKnQI9eqRArLsVRqkzfI54/view?usp=sharing
 
 A new Flutter project.
